@@ -1,0 +1,4 @@
+-> Create nestshield
+-> Create folder (backend,frontend,library) inside nestshield (monorepo)
+-> create .gitignore
+-> install typeOrm In backend

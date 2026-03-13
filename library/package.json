@@ -1,0 +1,15 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "AI-Powred API debugger for NestJS",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build":"tsc",
+    "build:watch":"tsc --watch"
+  },
+  "keywords": ["nestjs", "debugger", "api", "ai","logger","monitoring"],
+  "author": "Hamza Oubada",
+  "license": "MIT",
+  "type": "commonjs"
+}
